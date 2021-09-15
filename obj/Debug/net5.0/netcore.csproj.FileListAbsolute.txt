@@ -39,3 +39,5 @@ C:\xampp\htdocs\netcore\obj\Debug\net5.0\netcore.pdb
 C:\xampp\htdocs\netcore\obj\Debug\net5.0\netcore.genruntimeconfig.cache
 C:\xampp\htdocs\netcore\obj\Debug\net5.0\netcore.csproj.CopyComplete
 C:\xampp\htdocs\netcore\obj\Debug\net5.0\Razor\Views\Shared\_LayoutNew.cshtml.g.cs
+C:\xampp\htdocs\netcore\obj\Debug\net5.0\Razor\Views\HelloWorld\GetName.cshtml.g.cs
+C:\xampp\htdocs\netcore\obj\Debug\net5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
